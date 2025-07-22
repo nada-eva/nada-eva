@@ -7,17 +7,18 @@
     💻 Web & Software Dev • Linux enthusiast • Code explorer
     📚 Full Stack Development • Systems • Architecture • Networks
 
-<div style="text-align:center;">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">
+  <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/nadasb" target="_blank" rel="noopener noreferrer" style="margin:0 10px;">
+  <a href="https://github.com/nadasb" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
+
 
 </pre>
 </div>
